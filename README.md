@@ -6,7 +6,8 @@ This repository contains a Deep Learning project that uses a Convolutional Neura
 # Dataset
 The model is trained on the New Plant Diseases Dataset, which contains images of healthy and diseased leaves categorized into 38 different classes (including Apple, Corn, Grape, Potato, Tomato, etc.).
 
-# Dataset Link: New Plant Diseases Dataset on Kaggle
+# Dataset Link:https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
 
 Tech Stack
 Python 3.x
