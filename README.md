@@ -55,8 +55,13 @@ The CNN model achieved excellent performance on the dataset:
 Training Accuracy: ~98.1%
 
 Validation Accuracy: ~95.0%
+<img width="576" height="453" alt="image" src="https://github.com/user-attachments/assets/254cfb70-2dc4-4ca1-8879-45ad525ccaba" />
+<img width="2902" height="3192" alt="image" src="https://github.com/user-attachments/assets/c0d24804-a8a4-497b-a97f-045cb03265af" />
+
 
 The detailed classification report and confusion matrix indicate that the model effectively distinguishes between the 38 different classes with high precision and recall.
 
 # Saved Model
 The trained model weights and architecture are saved as trained_model.keras after training, which can be loaded later for making predictions on new, unseen leaf images without needing to retrain.
+>
+
